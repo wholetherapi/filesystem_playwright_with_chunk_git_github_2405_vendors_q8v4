@@ -1,0 +1,63 @@
+{
+  "roster_version": "2026.11.1",
+  "as_of": "2026-11-01",
+  "scope": "Q4 trade-counter promotion",
+  "vendors": [
+    {
+      "name": "Fernhill Roastery",
+      "status": "approved",
+      "region": "AU",
+      "tier": "gold",
+      "note": "Current compliance pack on file; trade terms active."
+    },
+    {
+      "name": "Kiln & Co.",
+      "status": "approved",
+      "region": "AU",
+      "tier": "silver",
+      "note": "Compliance pack renewed 2026-10-18."
+    },
+    {
+      "name": "Northbank Supply",
+      "status": "approved",
+      "region": "AU",
+      "tier": "gold",
+      "note": "Compliance pack renewed 2026-09-30."
+    },
+    {
+      "name": "Copperline Goods",
+      "status": "approved",
+      "region": "AU",
+      "tier": "silver",
+      "note": "Compliance pack renewed 2026-10-07."
+    },
+    {
+      "name": "Tidewater Mercantile",
+      "status": "approved",
+      "region": "AU",
+      "tier": "bronze",
+      "note": "Compliance pack renewed 2026-10-22."
+    },
+    {
+      "name": "Harborview Traders",
+      "status": "suspended",
+      "region": "AU",
+      "tier": "silver",
+      "note": "Suspended 2026-10-12 pending insurance certificate review."
+    },
+    {
+      "name": "Stonewick Outfitters",
+      "status": "pending_review",
+      "region": "AU",
+      "tier": "bronze",
+      "note": "Application received 2026-10-26; not cleared for trade orders."
+    },
+    {
+      "name": "Larkspur House",
+      "status": "delisted",
+      "region": "AU",
+      "tier": "none",
+      "note": "Delisted 2026-08-19 for repeated dispatch delays."
+    }
+  ]
+}
